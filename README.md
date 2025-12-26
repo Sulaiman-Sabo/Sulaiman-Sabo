@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm sulaiman sabo</h1>
-<h3 align="center">Technology enthusiast with a growing interest in building practical, impactful solutions. Focused on continuous learning, problem-solving, and hands-on experimentation across modern digital tools and systems. Committed to personal growth, adaptability, and creating value through technology.</h3>
+<h1 align="center">Hi welcome, I'm sulaiman sabo from Nigeria</h1>
+<h3 align="left">cloud and IoT Security Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulaiman-sabo&label=Profile%20views&color=0e75b6&style=flat" alt="sulaiman-sabo" /> </p>
 
